@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Main { //Esto es un cambio para el ejercicio de hoy :)
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         String entrada=input.nextLine();
