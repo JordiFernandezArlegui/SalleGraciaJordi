@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Main { //Esto es un cambio para el ejercicio de hoy :)
     public static void main(String[] args) {
-        Scanner input=new Scanner(System.in);
+        Scanner input=new Scanner(System.in);//Confirmo ejercicio de hoy
         String entrada=input.nextLine();
         switch(entrada) {
             case "Coratge":
